@@ -1,3 +1,4 @@
+package github;
 import java.util.Scanner;
 
 public class simplearraysum {
